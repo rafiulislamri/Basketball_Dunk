@@ -1,6 +1,7 @@
 ## Basketball Dunk - Detailed Project Brief
 
 **Project Files and Responsibilities**
+
 . Core Package
   - GameFrame.java (Singleton)
 1. Creates the main game window (600x600).
