@@ -1,9 +1,6 @@
 ## Basketball Dunk - Detailed Project Brief
 
 **Project Files and Responsibilities**
-. Main Package
-  GameMain.java [Entry point of the game. Launches the window (GameFrame) and attaches the main game panel (GamePanel).]
-
 . Core Package
   - GameFrame.java (Singleton)
 1. Creates the main game window (600x600).
